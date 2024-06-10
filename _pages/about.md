@@ -40,7 +40,7 @@ I am interested in various topics in Computer Vision particularly few-shot learn
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/covCLIP_figure.png" width="800" height="150" />
+    <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/covCLIP_figure.png" width="200" height="120" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Yassir Bendou</b>, Vincent Gripon, Bastien Pasdeloup, Giulia Lioi, Lukas Mauch, Fabien Cardinaux, Ghouthi Boukli Hacene "Inferring Latent Class Statistics from Text for Robust Visual Few-Shot Learning".
@@ -54,7 +54,7 @@ I am interested in various topics in Computer Vision particularly few-shot learn
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/Eusipco_2023.png" width="800" height="150" />
+    <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/Eusipco_2023.png" width="200" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Yassir Bendou</b>, Vincent Gripon, Bastien Pasdeloup, Giulia Lioi, Lukas Mauch, Stefan Uhlich, Fabien Cardinaux, Ghouthi Boukli Hacene, Javier Alonso Garcia "A Statistical Model for Predicting Generalization in Few-Shot Classification".
@@ -68,7 +68,7 @@ I am interested in various topics in Computer Vision particularly few-shot learn
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/iclr_23_bai.png" width="800" height="150" />
+    <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/EASY.png" width="800" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
    <b>Yassir Bendou</b>, Yuqing Hu, Raphael Lafargue, Giulia Lioi, Bastien Pasdeloup, Stéphane Pateux, Vincent Gripon "EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients".
@@ -81,5 +81,3 @@ I am interested in various topics in Computer Vision particularly few-shot learn
 </tr>
 
 </table>
-
-<div align="center"> <a href="https://clustrmaps.com/site/1bq1k" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=500&t=n&d=ruCxs5fSYmokIOdjMBdy2IxqKnq9RtaMoZPJhCgI5Gs&co=ffffff&ct=808080" /></a> </div>
