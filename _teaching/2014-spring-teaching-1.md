@@ -2,7 +2,7 @@
 title: "Introduction to Artificial Intelligence"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/introIA
 venue: "IMT Atlantique"
 date: 2024-02-01
 location: "Brest, France"
