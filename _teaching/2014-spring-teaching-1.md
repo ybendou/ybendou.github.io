@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Artificial Intelligence"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IMT Atlantique"
+date: 2024-02-01
+location: "Brest, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Introductory course to Machine Learning: Supervised/Unsupervised/Reinforcement Learning.
+More details about the course [here](https://github.com/brain-bzh/introduction-to-ai).
