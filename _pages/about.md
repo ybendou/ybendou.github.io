@@ -22,7 +22,7 @@ I am interested in various topics in Computer Vision particularly few-shot learn
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Yassir Bendou</b>, Giulia Lioi, Bastien Pasdeloup, Lukas Mauch, Ghouthi Boukli Hacene, Fabien Cardinaux, Vincent Gripon "LLM meets Vision-Language Models for Zero-Shot One-Class Classification".
-    <b>Preprint</b>2024<br>
+    <b>Preprint</b> 2024<br>
     <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2404.00675">Arxiv</a></span>
   </td>
