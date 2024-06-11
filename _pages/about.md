@@ -72,7 +72,7 @@ I am interested in various topics in Computer Vision particularly few-shot learn
   </td>
   <td style="border-collapse: collapse; border: none;">
    <b>Yassir Bendou</b>, Yuqing Hu, Raphael Lafargue, Giulia Lioi, Bastien Pasdeloup, Stéphane Pateux, Vincent Gripon "EASY: Ensemble Augmented-Shot Y-shaped Learning: State-Of-The-Art Few-Shot Classification with Simple Ingredients".
-    Best Student paper in <b>Journal of Imaging</b> 2022<br>
+    Best paper in <b>Journal of Imaging</b> 2022<br>
     <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/EASY_2022.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/abs/2201.09699">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/ybendou/ybendou.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
