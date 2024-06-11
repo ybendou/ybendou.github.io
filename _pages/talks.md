@@ -20,4 +20,4 @@ A talk on Inferring Latent Class Statistics from Text for Robust Visual Few-Shot
 ## Few-shot Learning
 2022-05-04 at the **French Tech Meetup**, Brest.
 
-A talk on Few-shot learning.
+A talk on FSL, standard pre-training of few-shot models (SSL, Manifold Mixup) and common few-shot adaptation techniques as well as our contribution [EASY](https://arxiv.org/abs/2201.09699).
