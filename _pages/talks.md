@@ -4,8 +4,20 @@ permalink: /talks/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+## Vision-language pre-trained models
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+2024-03-11 at **IMT Atlantique**, Brest
+
+A talk on vision-language pre-trained models: CLIP and various methods of few-shot adaptation. Record [here](https://www.youtube.com/watch?v=VqQnOVrJ9DA).
+
+## Inferring Latent Class Statistics from Text for Robust Visual Few-Shot Learning
+
+2023-11-01 at **Sony R&D**, Stuttgart
+
+A talk on Inferring Latent Class Statistics from Text for Robust Visual Few-Shot Learning.
+
+
+## Few-shot Learning
+2022-05-04 at the **French Tech Meetup**, Brest.
+
+A talk on Few-shot learning.
